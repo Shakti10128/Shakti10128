@@ -13,13 +13,13 @@ I'm a Full Stack Developer (MERN + Java Spring Boot) passionate about building r
 
 <p align="left"> <a href="https://twitter.com/shakti10128" target="blank"><img src="https://img.shields.io/twitter/follow/shakti10128?logo=twitter&style=for-the-badge" alt="shakti10128" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://shaktikumar-portfolio.vercel.app](https://shaktikumar-portfolio.vercel.app)
+- <h3>👨‍💻 All of my projects are available at:</h3> [https://shaktikumar-portfolio.vercel.app](https://shaktikumar-portfolio.vercel.app)
 
-- 💬 Ask me about <br> Feel free to reach out to me if you have any questions about **React, Next.js, Java Spring Boot, or MERN stack**, or if you'd like to discuss **web development, DSA, or anything tech-related!* 🚀*
+-  <h3>💬 Ask me about:</h3> Feel free to reach out to me if you have any questions about **React, Next.js, Java Spring Boot, or MERN stack**, or if you'd like to discuss **web development, DSA, or anything tech-related!* 🚀*
 
-- 📫 How to reach me <br> **kumarshakti2017@gmail.com**
+- <h3>📫 How to reach me:</h3> **kumarshakti2017@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PwrODZTEnxsTCHWV45saX5P0w5axaXUX/view?usp=drive_link](https://drive.google.com/file/d/1PwrODZTEnxsTCHWV45saX5P0w5axaXUX/view?usp=drive_link)
+- <h3>📄 Know about my experiences:</h3> [https://drive.google.com/file/d/1PwrODZTEnxsTCHWV45saX5P0w5axaXUX/view?usp=drive_link](https://drive.google.com/file/d/1PwrODZTEnxsTCHWV45saX5P0w5axaXUX/view?usp=drive_link)
 
 # ⚡ Fun fact:
  **When I’m not coding, I enjoy exploring sci-fi worlds and going for a run. I also come from a supportive family of four who mean the world to me.**
