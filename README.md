@@ -15,9 +15,9 @@ I'm a Full Stack Developer (MERN + Java Spring Boot) passionate about building r
 
 - 👨‍💻 All of my projects are available at [https://shaktikumar-portfolio.vercel.app](https://shaktikumar-portfolio.vercel.app)
 
-- 💬 Ask me about *Feel free to reach out to me if you have any questions about **React, Next.js, Java Spring Boot, or MERN stack**, or if you'd like to discuss **web development, DSA, or anything tech-related!* 🚀*
+- 💬 Ask me about <br> Feel free to reach out to me if you have any questions about **React, Next.js, Java Spring Boot, or MERN stack**, or if you'd like to discuss **web development, DSA, or anything tech-related!* 🚀*
 
-- 📫 How to reach me **kumarshakti2017@gmail.com**
+- 📫 How to reach me <br> **kumarshakti2017@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PwrODZTEnxsTCHWV45saX5P0w5axaXUX/view?usp=drive_link](https://drive.google.com/file/d/1PwrODZTEnxsTCHWV45saX5P0w5axaXUX/view?usp=drive_link)
 
