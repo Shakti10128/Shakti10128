@@ -17,7 +17,7 @@ I'm a Full Stack Developer (MERN + Java Spring Boot) passionate about building r
 
 -  <h3>💬 Ask me about:</h3> Feel free to reach out to me if you have any questions about **React, Next.js, Java Spring Boot, or MERN stack**, or if you'd like to discuss **web development, DSA, or anything tech-related!* 🚀*
 
-- <h3>📫 How to reach me:</h3> **kumarshakti2017@gmail.com**
+- <h3>📫 How to reach me:</h3> <a href="kumarshakti2017@gmail.com">Contact-me</a>
 
 - <h3>📄 Know about my experiences:</h3> <a href="https://drive.google.com/file/d/1PwrODZTEnxsTCHWV45saX5P0w5axaXUX/view?usp=drive_link">Resume</a>
 
