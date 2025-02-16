@@ -13,7 +13,7 @@ I'm a Full Stack Developer (MERN + Java Spring Boot) passionate about building r
 
 <p align="left"> <a href="https://twitter.com/shakti10128" target="blank"><img src="https://img.shields.io/twitter/follow/shakti10128?logo=twitter&style=for-the-badge" alt="shakti10128" /></a> </p>
 
-- <h3>👨‍💻 All of my projects are available at:</h3> [https://shaktikumar-portfolio.vercel.app](https://shaktikumar-portfolio.vercel.app)
+- <h3>👨‍💻 All of my projects are available at:</h3> [https://shaktikumar-portfolio.vercel.app](https://shaktikumar-portfolio.vercel.app)]
 
 -  <h3>💬 Ask me about:</h3> Feel free to reach out to me if you have any questions about **React, Next.js, Java Spring Boot, or MERN stack**, or if you'd like to discuss **web development, DSA, or anything tech-related!* 🚀*
 
