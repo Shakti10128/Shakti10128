@@ -19,7 +19,7 @@ I'm a Full Stack Developer (MERN + Java Spring Boot) passionate about building r
 
 - <h3>📫 How to reach me:</h3> kumarshakti2017@gmail.com
 
-- <h3>📄 Know about my experiences:</h3> <a href="https://drive.google.com/file/d/1PwrODZTEnxsTCHWV45saX5P0w5axaXUX/view?usp=drive_link">Resume</a>
+- <h3>📄 Know about my experiences:</h3> <a href="https://drive.google.com/file/d/12B1dSpsZBEM59U2KKjHZkCku_7O93n1H/view?usp=sharing">Resume</a>
 
 # ⚡ Fun fact:
  **When I’m not coding, I enjoy exploring sci-fi worlds and going for a run. I also come from a supportive family of four who mean the world to me.**
